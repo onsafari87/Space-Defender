@@ -1,0 +1,28 @@
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\Space Defender.exe
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\Space Defender.pdb
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\obj\x86\Debug\Space Defender.csprojResolveAssemblyReference.cache
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\obj\x86\Debug\Space Defender.exe
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\obj\x86\Debug\Space Defender.pdb
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\Content\SpaceBackGround.xnb
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\Content\SpaceShip.xnb
+c:\users\mr. laptop\documents\visual studio 2015\Projects\Space Defender\Space Defender\bin\Windows\x86\Debug\Content\Level.xnb
